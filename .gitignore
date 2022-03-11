@@ -1,2 +1,5 @@
 # Don't commit backups
-*-backups
+*backups
+
+#No cache
+*cache
